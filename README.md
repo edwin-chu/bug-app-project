@@ -1,7 +1,7 @@
-# Basic Project
-## Basic Project Structure
+# Bug App Project
+## Bug App Project Structure
 
-*Default Structure for A Basic Project*
+*Default Structure for A Bug App Project*
 
 
 **Java 8**
